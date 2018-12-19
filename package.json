@@ -1,5 +1,5 @@
 {
-  "name": "isomorphic-fetch",
+  "name": "@applitools/isomorphic-fetch",
   "version": "3.0.0",
   "description": "Isomorphic WHATWG Fetch API, for Node & Browserify",
   "browser": "fetch-npm-browserify.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matthew-andrews/isomorphic-fetch.git"
+    "url": "https://github.com/applitools/isomorphic-fetch.git"
   },
   "author": "Matt Andrews <matt@mattandre.ws>",
   "license": "MIT",
